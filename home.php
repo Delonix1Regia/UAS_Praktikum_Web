@@ -143,7 +143,7 @@ session_start();
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                 </div>
                                 <div class="modal-body">
-                                    <form id="form-create-project" action="tambah.php" method="post">
+                                    <form id="form-create-project" action="create.php" method="post">
                                         <div class="form-group">
                                             <label for="nama_barang">Nama Proyek:</label>
                                             <input type="text" id="nama_barang" name="nama_barang" class="form-control" required>
